@@ -11,7 +11,7 @@
 
 - Страница для гостей (GitHub Pages) выключена.
 - Сервер на Render (`kamilovs-hotel-qr-backend`, `srv-d527cdq4d50c73becdqg`, бесплатный тариф, Oregon)
-  приостанавливается в панели Render: сервис → Settings → **Suspend Service**.
+  приостановлен в панели Render (Suspend Service) 2026-09-26; /health отвечает 503 «Service Suspended».
 
 ## Дальше (если понадобится включить снова)
 
